@@ -23,7 +23,7 @@ A simple stereo amplifier built around the classic Philips TDA1516BQ audio ampli
 | RV1 | [B100K potentiometer](https://s.click.aliexpress.com/e/_c3qUNW6J) | 1 |
 | U1 | [TDA1516BQ](https://s.click.aliexpress.com/e/_c3Xf7b8X) ([datasheet](https://pdf.datasheetcatalog.com/datasheet/philips/TDA1516.pdf)) | 1 |
 
-The PCB can be ordered directly from PCBWay.
+The PCB can be ordered directly from [PCBWay](https://www.pcbway.com/project/shareproject/TDA1516BQ_12W_x_2_Stereo_Amplifier_b292c3b0.html).
 
 ## Construction notes
 
