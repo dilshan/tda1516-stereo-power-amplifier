@@ -1,6 +1,6 @@
 # TDA1516BQ 12W x 2 Stereo Amplifier
 
-![Prototype build of TDA1516BQ](refs/heads/main/resources/tda1516-prototype.jpg)
+![Prototype build of TDA1516BQ](https://raw.githubusercontent.com/dilshan/tda1516-stereo-power-amplifier/refs/heads/main/resources/tda1516-prototype.jpg)
 
 A simple stereo amplifier built around the classic Philips TDA1516BQ audio amplifier chip. It delivers 12W per channel on a 12V - 14V supply, with the warm, smooth sound of a traditional class AB design.
 
