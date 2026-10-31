@@ -1,0 +1,9 @@
+Reference,Value,Qty,Order Link,Datasheet
+C1,100?F / 25V,1,https://s.click.aliexpress.com/e/_c3xrOqJD,
+"C2,C3",0.22?F,2,https://s.click.aliexpress.com/e/_c39Y1Dd1,
+"C4,C5",1000?F / 25V,2,https://s.click.aliexpress.com/e/_c3CeWXvv,
+C6,2200?F / 25V,1,https://s.click.aliexpress.com/e/_c3xxjTBN,
+C7,0.1?F ,1,https://s.click.aliexpress.com/e/_c39Y1Dd1,
+"J1,J2,J3,J4,J5",5.08 - 2pin Screw Terminal,5,https://s.click.aliexpress.com/e/_c3N5smMT,
+RV1,B100K,1,https://s.click.aliexpress.com/e/_c3qUNW6J,
+U1,TDA1516BQ,1,https://s.click.aliexpress.com/e/_c3Xf7b8X,https://pdf.datasheetcatalog.com/datasheet/philips/TDA1516.pdf

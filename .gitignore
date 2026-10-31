@@ -31,4 +31,4 @@ fp-info-cache
 *.csv
 
 # Add project BoM file.
-!design/da1516bq-stereo-amp.csv
+!design/tda1516bq-stereo-amp.csv
